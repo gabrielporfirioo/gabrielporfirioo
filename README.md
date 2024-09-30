@@ -18,5 +18,12 @@
 - **[Power BI Dashboards](https://github.com/seu-repositorio)**  
   Criação de dashboards interativos para análise de dados.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielporfirioo&show_icons=true&theme=radical)
