@@ -15,6 +15,8 @@
 - ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌟 Principais Projetos
 - **[Projeto Django: Sistema de Filmes](https://github.com/seu-repositorio)**  
   Projeto em Django para registrar filmes e usuários.
