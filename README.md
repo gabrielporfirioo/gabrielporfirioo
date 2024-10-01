@@ -4,6 +4,8 @@
 💼 Buscando estágio na área de tecnologia com foco em desenvolvimento de sistemas e análise de dados.  
 🌐 Experiência em desenvolvimento web/mobile, Python, Power BI, POO, Estrutura de Dados, Bancos de Dados e SCRUM.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias e Ferramentas
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
