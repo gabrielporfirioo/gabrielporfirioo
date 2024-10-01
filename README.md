@@ -21,10 +21,10 @@
 - **[Projeto Django: Sistema de Filmes](https://github.com/gabrielporfirioo/Django-filmes)**  
   Projeto em Django para registrar filmes e usuários.
 
-- **[Projeto Node.js](https://github.com/gabrielporfirioo/RESTCountries-veloz)**  
+- **[Projeto Node.js: Sistemas de Países](https://github.com/gabrielporfirioo/RESTCountries-veloz)**  
   Projeto em Express.js para visualizar países e informações dos mesmos.
 
-- **[Projeto IONIC/Angular](https://github.com/gabrielporfirioo/ConsultaCep)**  
+- **[Projeto IONIC/Angular: Consulta CEP](https://github.com/gabrielporfirioo/ConsultaCep)**  
   Projeto em Ionic com Angular, consultando os CEPs com TypeScript.
 
 
