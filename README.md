@@ -24,7 +24,7 @@
 - **[Projeto Node.js](https://github.com/gabrielporfirioo/RESTCountries-veloz)**  
   Projeto em Express.js para visualizar países e informações dos mesmos.
 
-- **[Projeto Node.js](https://github.com/gabrielporfirioo/ConsultaCep)**  
+- **[Projeto IONIC/Angular](https://github.com/gabrielporfirioo/ConsultaCep)**  
   Projeto em Ionic com Angular, consultando os CEPs com TypeScript.
 
 
