@@ -1,12 +1,13 @@
 # Olá, sou Gabriel Porfírio! 👋
 
-🎓 Estudante de Ciência da Computação na UNINASSAU - Recife.  
-💼 Buscando estágio na área de tecnologia com foco em desenvolvimento de sistemas e análise de dados.  
-🌐 Experiência em desenvolvimento web/mobile, Python, Power BI, POO, Estrutura de Dados, Bancos de Dados e SCRUM.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-porfirio)
 [![GitHub followers](https://img.shields.io/github/followers/gabrielporfirioo?label=Follow&style=social)](https://github.com/gabrielporfirioo)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=gabrielporfirioo&color=blue&style=flat)](https://github.com/gabrielporfirioo)
+
+## Sobre Mim 🎯
+
+Estudante de Ciência da Computação na UNINASSAU - Recife, apaixonado por desenvolvimento de software e análise de dados. Atualmente buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em tecnologia.
+
 
 ### 🔍 Principais Interesses
 - Desenvolvimento Web/Mobile
@@ -62,8 +63,8 @@ Aplicativo mobile para consulta de CEPs brasileiros.
 ## Entre em Contato 📫
 
 - LinkedIn: [Gabriel Porfírio](https://www.linkedin.com/in/gabriel-porfirio)
-- Email: gabriel.porfirio@email.com
-- Portfolio: [gabrielporfirio.dev](https://gabrielporfirio.dev)
+- Email: gabrielporfirio07@gmail.com
+- Portfolio: [gabrielporfirio](https://www.appinbio.com/gabrielporfirio)
 
 ---
 ⭐️ From [gabrielporfirioo](https://github.com/gabrielporfirioo)
