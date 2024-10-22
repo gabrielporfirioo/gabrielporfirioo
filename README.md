@@ -13,6 +13,7 @@
 ### 🔍 Principais Interesses
 - Desenvolvimento Web/Mobile
 - Análise de Dados
+- Fullstack
 - Arquitetura de Software
 - Metodologias Ágeis
 
