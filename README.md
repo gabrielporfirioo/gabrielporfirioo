@@ -6,8 +6,9 @@
 
 ## Sobre Mim 🎯
 
-Estudante de Ciência da Computação na UNINASSAU - Recife, apaixonado por desenvolvimento de software e análise de dados. Atualmente buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em tecnologia.
-
+🎓 Estudante de Ciência da Computação na UNINASSAU - Recife.  
+💼 Buscando estágio na área de tecnologia com foco em desenvolvimento de sistemas e análise de dados.  
+🌐 Experiência em desenvolvimento web/mobile, Python, Power BI, POO, Estrutura de Dados, Bancos de Dados e SCRUM.
 
 ### 🔍 Principais Interesses
 - Desenvolvimento Web/Mobile
