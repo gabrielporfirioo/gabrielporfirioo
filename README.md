@@ -81,7 +81,7 @@ Aplicativo mobile para consulta de CEPs brasileiros.
 
 - 👨‍💻 Todos os meus projetos estão [https://github.com/gabrielporfirioo](https://github.com/gabrielporfirioo)
 
-- 💬 Me pergunte sobre **Python, Django, JavaScript e Lógica de Programação**
+- 💬 Me pergunte sobre **Python, Django, JavaScript, Lógica de Programação e Desenvolvimento Web/Mobile**
 
 - 📫 Como falar comigo **gabrielporfirio07@gmail.com**
 
