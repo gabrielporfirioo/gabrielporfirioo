@@ -75,13 +75,11 @@ Aplicativo mobile para consulta de CEPs brasileiros.
 <h1 align="center">Olá 👋, eu sou Gabriel Porfírio</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e da faculdade [Site Pessoal](https://www.appinbio.com/gabrielporfirio)
+<!-- - 🔭 Atualmente estou trabalhando em projetos pessoais e da faculdade [Site Pessoal](https://www.appinbio.com/gabrielporfirio) -->
 
 - 🌱 Atualmente estou aprendendo **Data Science e NodeJS**
 
 - 👨‍💻 Todos os meus projetos estão [https://github.com/gabrielporfirioo](https://github.com/gabrielporfirioo)
-
-- 💬 Me pergunte sobre **Python, Django, JavaScript, Lógica de Programação e Desenvolvimento Web/Mobile**
 
 - 📫 Como falar comigo **gabrielporfirio07@gmail.com**
 
